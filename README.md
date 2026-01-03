@@ -1,5 +1,3 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/81590d4e-aad1-4c86-a33e-6a93b585a5af" />
-
 <h1>📌 Project AI Lanjut</h1>
 <p><strong>Penerapan Deep Learning untuk Anomaly Detection pada
 Predictive Maintenance Menggunakan LSTM dan Transformer<strong><p>
